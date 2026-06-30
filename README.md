@@ -8,7 +8,7 @@ The True Entity![37902.jpg](https://media.xtiles.app/f5d03197a6e8cd17a4535e506f0
 
 ---
 
-Characteristics​If you look at True Entity it has a human body.
+**Characteristics** ​If you look at True Entity it has a human body.
 ​It is height
 ​It has a build
 ​It does not have any features
@@ -18,7 +18,7 @@ Characteristics​If you look at True Entity it has a human body.
 ​It exists,. Also it does not exist
 ​It does not follow the rules of logic or causality or storytelling
 
-Quirks & flawsTrue Entity does not have any abilities.
+**Quirks & flaws** True Entity does not have any abilities.
 ​It does not have any powers
 ​It cannot manipulate things
 ​It cannot resist things
@@ -29,7 +29,7 @@ Quirks & flawsTrue Entity does not have any abilities.
 ​It does not care about winning or losing
 ​It cannot be targeted because it never takes part in anything
 
-BackstoryTrue Entity was created by the Author.
+**Backstory** True Entity was created by the Author.
 ​It does not oppose the Author
 ​It does not try to surpass the Author
 ​It exists to show that power is actually empty and meaningless
